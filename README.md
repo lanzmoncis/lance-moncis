@@ -4,9 +4,10 @@
   </a>
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+| ![Space](https://via.placeholder.com/15) | <img align='right' src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='300'> |
+| --- | --- |
+| &nbsp; | Hi, I'm **Lance**, a self-taught developer and a graduate of Northcoders boot camp with a passion for technology... |
 
-<p>Hi, I'm <strong>Lance</strong>, a self-taught developer and a graduate of Northcoders boot camp with a passion for technology. I am constantly expanding my knowledge in the tech industry and enjoy learning about new developments. When I'm not coding, you can find me indulging in music, either playing or listening. I would love to collaborate with other developers. Let's connect!</p>
 
 
 <h4>Recent Projects:</h4>
