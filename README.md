@@ -6,6 +6,11 @@
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/LanzMoncis?label=Follow)](https://twitter.com/intent/follow?screen_name=LanzMoncis)
+[![Linkedin: lance](https://img.shields.io/badge/-lance-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lance-moncis-a87100261/)](https://www.linkedin.com/in/lance-moncis-a87100261/)
+![GitHub followers](https://img.shields.io/github/followers/lanzmoncis?label=Follow&style=social)
+
+
 <p>Hi, I'm <strong>Lance</strong>, a self-taught developer and a graduate of Northcoders boot camp with a passion for technology. I am constantly expanding my knowledge in the tech industry and enjoy learning about new developments. When I'm not coding, you can find me indulging in music, either playing or listening. I would love to collaborate with other developers. Let's connect!</p>
 
 
