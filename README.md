@@ -19,7 +19,7 @@
   <li>
     <a href="https://nc-backend.onrender.com/api/articles" target="_blank">NC-News API</a></li>
     <li>
-    <a href="https://plaidpal.netlify.app" target="_blank">PlaidPal</a></li>
+    <a href="https://plaidpal.nidhoggr.co.uk" target="_blank">PlaidPal</a></li>
     <li>
     <a href="https://omnifood-lance.netlify.app" target="_blank">Omnifood</a></li>
   </ul>
