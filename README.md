@@ -15,9 +15,9 @@
 <h4>Recent Projects:</h4>
 <ul>
   <li>
-    <a href="https://github.com/lanzmoncis/rota-builder" target="_blank">Shifty</a></li>
-  <li>
     <a href="https://ncnews-lanz.netlify.app" target="_blank">News</a></li>
+  <li>
+    <a href="https://github.com/lanzmoncis/rota-builder" target="_blank">Shifty</a></li>
   </ul>
 <hr/>
 
