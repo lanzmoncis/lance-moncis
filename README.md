@@ -15,9 +15,9 @@
 <h4>Recent Projects:</h4>
 <ul>
   <li>
-    <a href="https://brilliant-sherbet-fe6c8a.netlify.app" target="_blank">NC-News</a></li>
+    <a href="https://ncnews-lanz.netlify.app" target="_blank">News.</a></li>
   <li>
-    <a href="https://nc-backend.onrender.com/api/articles" target="_blank">NC-News API</a></li>
+    <a href="https://nc-backend.onrender.com/api/articles" target="_blank">News. API</a></li>
   </ul>
 <hr/>
 
