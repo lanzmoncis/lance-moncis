@@ -17,7 +17,7 @@
   <li>
     <a href="https://ncnews-lanz.netlify.app" target="_blank">News</a></li>
   <li>
-    <a href="https://nc-backend.onrender.com/api/articles" target="_blank">News API</a></li>
+    <a href="https://github.com/lanzmoncis/NC-News-BE" target="_blank">News API</a></li>
   </ul>
 <hr/>
 
