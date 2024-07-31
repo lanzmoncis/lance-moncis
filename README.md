@@ -17,7 +17,7 @@
   <li>
     <a href="https://ncnews-lanz.netlify.app" target="https://ncnews-lanz.netlify.app">News</a></li>
   <li>
-    <a href="https://rota-builder.vercel.app/" target="https://rota-builder.vercel.app/">Shifty</a></li>
+    <a href="http://shifty-opal.vercel.app" target="http://shifty-opal.vercel.app">Shifty</a></li>
   </ul>
 <hr/>
 
