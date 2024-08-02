@@ -15,9 +15,11 @@
 <h4>Recent Projects:</h4>
 <ul>
   <li>
-    <a href="https://ncnews-lanz.netlify.app" target="https://ncnews-lanz.netlify.app">News</a></li>
+    <a href="http://ecommerce-rust-rho.vercel.app" target="http://ecommerce-rust-rho.vercel.app">Audiophile</a></li>
   <li>
     <a href="http://shifty-opal.vercel.app" target="http://shifty-opal.vercel.app">Shifty</a></li>
+  <li>
+    <a href="https://ncnews-lanz.netlify.app" target="https://ncnews-lanz.netlify.app">News</a></li>
   </ul>
 <hr/>
 
